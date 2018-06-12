@@ -5,12 +5,12 @@
 using namespace std;
 
 int strStr(string haystack, string needle) {
-    int i = haystack.find(needle);
+    size_t i = haystack.find(needle);
     cout << i;
 }
 
 int main() {
-    strStr("helloll", "uhi");
+    strStr("helloll", "");
     return 0;
 }
 
