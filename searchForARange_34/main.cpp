@@ -11,8 +11,8 @@ vector<int> searchRange(vector<int> &nums, int target) {
         if (nums[mid] == target) {
             int left = mid;
             int right = mid;
-            while (left >= 0 && nums[left] == target) --left;
-            while (right <= nums.size() - 1 && nums[right] == target) ++right;
+            while (left >= 0 && nums[--left] == target);
+            while (right <= nums.size() - 1 && nums[++right] == target);
             vector<int> ans;
             ans.push_back(left + 1);
             ans.push_back(right - 1);
