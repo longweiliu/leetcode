@@ -2,6 +2,8 @@
 #include <vector>
 #include <algorithm>
 #include <unordered_map>
+#include <set>
+#include <random>
 
 using namespace std;
 
@@ -71,7 +73,18 @@ vector<int> findFrequentTreeSum(TreeNode *root) {
 
 
 int main() {
-
+    set<int> s;
+    vector<int> v;
+    v.reserve(10000);
+    for (int i = 0; i < 10000; ++i) {
+        v.push_back(i);
+    }
+    default_random_engine e;
+//    e.seed(10);
+    for (int i = 0; i < 10000; ++i) {
+        s.insert(v[e() % 10000]);
+    }
+    cout << s.size();
     return 0;
 }
 
