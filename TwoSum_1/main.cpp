@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 #include <unordered_map>
 
 using namespace std;
@@ -92,16 +91,46 @@ bool lemonadeChange(vector<int> &bills) {
     return true;
 }
 
-int main() {
-    vector<int> v;
-    v.push_back(2);
-    v.push_back(7);
-    v.push_back(11);
-    v.push_back(15);
-    vector<int> ans = twoSum(v, 9);
-    for (auto num : ans) {
+void print(vector<int> &nums) {
+    for (auto num : nums) {
         cout << num << ' ';
     }
+    cout << endl;
+}
+
+int partition(vector<int> &nums, int low, int high) {
+    int key = nums[low];
+    while (low < high) {
+        while (nums[high] > key && high > low) {
+            high--;
+        }
+        nums[low] = nums[high];
+        while (nums[low] < key && high > low) {
+            low++;
+        }
+        nums[high] = nums[low];
+    }
+    nums[high] = key;
+    return high;
+}
+
+void quickSort(vector<int> &nums, int low, int high) {
+    if (low >= high) return;
+    int index = partition(nums, low, high);
+    quickSort(nums, low, index - 1);
+    quickSort(nums, index + 1, high);
+}
+
+void test() {
+    vector<int> nums{5, 3, 2, 6, 4, 8, 1};
+    quickSort(nums, 0, nums.size());
+    for (auto num : nums) {
+        cout << num << ' ';
+    }
+}
+
+int main() {
+    test();
     return 0;
 }
 
