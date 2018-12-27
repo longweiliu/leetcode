@@ -50,6 +50,12 @@ https://github.com/longweiliu/leetcode/issues/2
 
 - count(1) count(*) count(列名) 这三个有什么区别
 https://blog.csdn.net/unifirst/article/details/52153902
+
+- mysql中InnoDB存储引擎的行锁和表锁
+https://www.cnblogs.com/ShaunChen/p/7492056.html
+
+- mysql索引失效的几种情况
+https://blog.csdn.net/wuseyukui/article/details/72312574
 ___
 ## 其他
 
