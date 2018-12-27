@@ -1,3 +1,9 @@
+- HTTP1.0 HTTP 1.1 HTTP 2.0主要区别
+https://blog.csdn.net/linsongbin1/article/details/54980801
+
+- 一篇文章看明白 HTTP，HTTPS，SSL/TSL 之间的关系
+https://blog.csdn.net/freekiteyu/article/details/76423436
+
 - 当我们说线程安全时，到底在说什么
 http://www.jasongj.com/java/thread_safe/
 
