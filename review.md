@@ -47,5 +47,5 @@ ___
 - 消息队列及常见消息队列介绍
 https://cloud.tencent.com/developer/article/1006035
 
--集群,分布式，微服务概念和区别理解
+- 集群,分布式，微服务概念和区别理解
 https://blog.csdn.net/qq_37788067/article/details/79250623
