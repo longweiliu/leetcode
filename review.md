@@ -40,6 +40,9 @@ ___
 
 - Linux的进程/线程间通信方式总结
 https://my.oschina.net/lowkey2046/blog/389912
+
+- 死锁是什么、死锁的必要条件以及如何避免死锁
+https://github.com/longweiliu/leetcode/issues/1
 ___
 
 ## 其他
