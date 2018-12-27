@@ -1,8 +1,17 @@
+- HTTP｜GET 和 POST 区别？网上多数答案都是错的！
+https://juejin.im/entry/597ca6caf265da3e301e64db
+
 - HTTP1.0 HTTP 1.1 HTTP 2.0主要区别
 https://blog.csdn.net/linsongbin1/article/details/54980801
 
 - 一篇文章看明白 HTTP，HTTPS，SSL/TSL 之间的关系
 https://blog.csdn.net/freekiteyu/article/details/76423436
+
+- 通俗大白话来理解TCP协议的三次握手和四次分手
+https://github.com/jawil/blog/issues/14
+
+- 从输入 URL 到页面展示到底发生了什么
+http://web.jobbole.com/91239/
 
 - 当我们说线程安全时，到底在说什么
 http://www.jasongj.com/java/thread_safe/
@@ -24,9 +33,3 @@ https://troywu0.gitbooks.io/spark/content/java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%
 
 - 消息队列及常见消息队列介绍
 https://cloud.tencent.com/developer/article/1006035
-
-- 通俗大白话来理解TCP协议的三次握手和四次分手
-https://github.com/jawil/blog/issues/14
-
-- 从输入 URL 到页面展示到底发生了什么
-http://web.jobbole.com/91239/
