@@ -1,3 +1,4 @@
+## 网络
 - HTTP｜GET 和 POST 区别？网上多数答案都是错的！
 https://juejin.im/entry/597ca6caf265da3e301e64db
 
@@ -12,6 +13,9 @@ https://github.com/jawil/blog/issues/14
 
 - 从输入 URL 到页面展示到底发生了什么
 http://web.jobbole.com/91239/
+
+___
+## Java
 
 - 当我们说线程安全时，到底在说什么
 http://www.jasongj.com/java/thread_safe/
@@ -30,6 +34,8 @@ https://troywu0.gitbooks.io/spark/content/java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%
 
 - JAVA 内存模型
 https://troywu0.gitbooks.io/spark/content/java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.html
+
+## 其他
 
 - 消息队列及常见消息队列介绍
 https://cloud.tencent.com/developer/article/1006035
