@@ -44,7 +44,13 @@ https://my.oschina.net/lowkey2046/blog/389912
 - 死锁是什么、死锁的必要条件以及如何避免死锁
 https://github.com/longweiliu/leetcode/issues/1
 ___
+## 数据库
+- innodb和myisam的区别
+https://github.com/longweiliu/leetcode/issues/2
 
+- count(1) count(*) count(列名) 这三个有什么区别
+https://blog.csdn.net/unifirst/article/details/52153902
+___
 ## 其他
 
 - 消息队列及常见消息队列介绍
