@@ -29,14 +29,18 @@ http://www.jasongj.com/java/multi_thread/
 - 从ConcurrentHashMap的演进看Java多线程核心技术
 http://www.jasongj.com/java/concurrenthashmap/
 
-- Linux的进程/线程间通信方式总结
-https://my.oschina.net/lowkey2046/blog/389912
-
 - JAVA垃圾回收机制
 https://troywu0.gitbooks.io/spark/content/java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.html
 
 - JAVA 内存模型
 https://troywu0.gitbooks.io/spark/content/java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.html
+
+___
+## 操作系统
+
+- Linux的进程/线程间通信方式总结
+https://my.oschina.net/lowkey2046/blog/389912
+___
 
 ## 其他
 
