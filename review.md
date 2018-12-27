@@ -11,6 +11,9 @@ https://blog.csdn.net/freekiteyu/article/details/76423436
 - 通俗大白话来理解TCP协议的三次握手和四次分手
 https://github.com/jawil/blog/issues/14
 
+- TCP和UDP的优缺点及区别
+https://www.cnblogs.com/xiaomayizoe/p/5258754.html
+
 - 从输入 URL 到页面展示到底发生了什么
 http://web.jobbole.com/91239/
 
