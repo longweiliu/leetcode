@@ -58,6 +58,8 @@ https://www.cnblogs.com/ShaunChen/p/7492056.html
 https://blog.csdn.net/wuseyukui/article/details/72312574
 ___
 ## 其他
+- 一致性哈希算法
+https://blog.csdn.net/cywosp/article/details/23397179
 
 - 消息队列及常见消息队列介绍
 https://cloud.tencent.com/developer/article/1006035
