@@ -81,5 +81,8 @@ https://kb.cnblogs.com/page/95701/
 
 ___
 ## 一些资源
+- Java学习+面试指南
+https://github.com/Snailclimb/JavaGuide
+
 - 互联网 Java 工程师进阶知识完全扫盲
 https://github.com/doocs/advanced-java
