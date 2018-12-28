@@ -58,6 +58,9 @@ https://www.cnblogs.com/ShaunChen/p/7492056.html
 https://blog.csdn.net/wuseyukui/article/details/72312574
 ___
 ## 其他
+- 字典树(Trie树)实现与应用
+https://www.cnblogs.com/xujian2014/p/5614724.html
+
 - 一致性哈希算法
 https://blog.csdn.net/cywosp/article/details/23397179
 
