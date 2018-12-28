@@ -78,3 +78,8 @@ https://blog.csdn.net/qq_37788067/article/details/79250623
 
 - 十道海量数据处理面试题与十个方法大总结
 https://kb.cnblogs.com/page/95701/
+
+___
+## 一些资源
+- 互联网 Java 工程师进阶知识完全扫盲
+https://github.com/doocs/advanced-java
