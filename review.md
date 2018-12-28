@@ -61,6 +61,9 @@ ___
 - 字典树(Trie树)实现与应用
 https://www.cnblogs.com/xujian2014/p/5614724.html
 
+- Hash树(散列树)和Trie树(字典树、前缀树)
+https://blog.csdn.net/jethai/article/details/52345360
+
 - 一致性哈希算法
 https://blog.csdn.net/cywosp/article/details/23397179
 
