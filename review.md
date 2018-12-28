@@ -64,6 +64,9 @@ https://www.cnblogs.com/xujian2014/p/5614724.html
 - 一致性哈希算法
 https://blog.csdn.net/cywosp/article/details/23397179
 
+- 布隆过滤器(Bloom Filter)详解
+https://www.cnblogs.com/liyulong1982/p/6013002.html
+
 - 消息队列及常见消息队列介绍
 https://cloud.tencent.com/developer/article/1006035
 
