@@ -1,3 +1,15 @@
+## 一些资源
+- CS-Notes &hearts;
+https://github.com/CyC2018/CS-Notes
+
+- Java学习+面试指南 &hearts;
+https://github.com/Snailclimb/JavaGuide
+
+- 互联网 Java 工程师进阶知识完全扫盲
+https://github.com/doocs/advanced-java
+
+___
+
 ## 网络
 - HTTP｜GET 和 POST 区别？网上多数答案都是错的！
 https://juejin.im/entry/597ca6caf265da3e301e64db
@@ -78,11 +90,3 @@ https://blog.csdn.net/qq_37788067/article/details/79250623
 
 - 十道海量数据处理面试题与十个方法大总结
 https://kb.cnblogs.com/page/95701/
-
-___
-## 一些资源
-- Java学习+面试指南
-https://github.com/Snailclimb/JavaGuide
-
-- 互联网 Java 工程师进阶知识完全扫盲
-https://github.com/doocs/advanced-java
