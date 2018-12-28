@@ -75,3 +75,6 @@ https://cloud.tencent.com/developer/article/1006035
 
 - 集群，分布式，微服务概念和区别理解
 https://blog.csdn.net/qq_37788067/article/details/79250623
+
+- 十道海量数据处理面试题与十个方法大总结
+https://kb.cnblogs.com/page/95701/
