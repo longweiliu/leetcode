@@ -1,8 +1,8 @@
 ## 一些资源
-- CS-Notes &hearts;
+- CS-Notes &hearts;&hearts;&hearts;&hearts;&hearts;
 https://github.com/CyC2018/CS-Notes
 
-- Java学习+面试指南 &hearts;
+- Java学习+面试指南 &hearts;&hearts;&hearts;&hearts;&hearts;
 https://github.com/Snailclimb/JavaGuide
 
 - 互联网 Java 工程师进阶知识完全扫盲
