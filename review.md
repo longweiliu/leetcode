@@ -57,6 +57,9 @@ https://my.oschina.net/lowkey2046/blog/389912
 https://github.com/longweiliu/leetcode/issues/1
 ___
 ## 数据库
+- MySQL优化/面试，看这一篇就够了
+https://www.nowcoder.com/discuss/150059
+
 - innodb和myisam的区别
 https://github.com/longweiliu/leetcode/issues/2
 
