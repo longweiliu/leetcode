@@ -71,6 +71,11 @@ https://www.cnblogs.com/ShaunChen/p/7492056.html
 
 - mysql索引失效的几种情况
 https://blog.csdn.net/wuseyukui/article/details/72312574
+
+- BTree B+Tree
+https://www.jianshu.com/p/0371c9569736
+https://www.cnblogs.com/vianzhang/p/7922426.html
+
 ___
 ## 其他
 - 字典树(Trie树)实现与应用
