@@ -102,6 +102,9 @@ https://blog.csdn.net/qq_37788067/article/details/79250623
 - 十道海量数据处理面试题与十个方法大总结
 https://kb.cnblogs.com/page/95701/
 
+- 为什么 Goroutine 能有上百万个，Java 线程却只能有上千个？
+https://studygolang.com/articles/13768
+
 ___
 ## 算法
 - 堆排序详解
